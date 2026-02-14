@@ -76,12 +76,19 @@ radius = 350, 400, 450, 500, 550, 600
 ```
 
 Accuracy was evaluated for each radius value.
+<img width="1613" height="1017" alt="image" src="https://github.com/user-attachments/assets/f45aa037-e3a8-4f4a-b9d2-50ca9a38d4f9" />
+
 
 ---
 
 ## 4. Results and Visualization
 
 Accuracy plots were generated for both models showing performance trends across parameter values.
+<img width="1656" height="1038" alt="image" src="https://github.com/user-attachments/assets/2d544260-3dce-451a-be3e-f9099a20da33" />
+
+<img width="1559" height="1041" alt="image" src="https://github.com/user-attachments/assets/e350b0d4-7e9d-41c4-b19f-c106214ce517" />
+
+
 
 ### Observations
 
@@ -115,7 +122,7 @@ This lab has helped me demonstrate the influence of neighborhood definition on c
 
 ---
 
-## 8. Technologies Used
+## 8. Resources Used
 
 - Python
 - Jupyter Notebook
